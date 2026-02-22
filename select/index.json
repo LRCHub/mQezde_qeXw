@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Homewrecker",
+  "base_artist": "sombr",
+  "createdAt": "2026-02-22T13:49:25.265916Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Homewrecker",
+      "artist": "Gretchen Wilson",
+      "has_synced": true,
+      "path": "select/01_Homewrecker_Gretchen_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Homewrecker (Album Version)",
+      "artist": "Gretchen Wilson",
+      "has_synced": true,
+      "path": "select/02_Homewrecker_(Album_Version)_Gretchen_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Homewrecker!",
+      "artist": "Jarvis Cocker",
+      "has_synced": true,
+      "path": "select/03_Homewrecker!_Jarvis_Cocker.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Homewrecker",
+      "artist": "MARINA",
+      "has_synced": true,
+      "path": "select/04_Homewrecker_MARINA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Homewrecker",
+      "artist": "Marina & the Diamonds",
+      "has_synced": true,
+      "path": "select/05_Homewrecker_Marina_&_the_Diamonds.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Homewrecker",
+      "artist": "Sophie Ellis-Bextor",
+      "has_synced": false,
+      "path": "select/06_Homewrecker_Sophie_Ellis-Bextor.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Homewrecker",
+      "artist": "Marina & the Diamonds",
+      "has_synced": true,
+      "path": "select/07_Homewrecker_Marina_&_the_Diamonds.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Homewrecker",
+      "artist": "Marina",
+      "has_synced": true,
+      "path": "select/08_Homewrecker_Marina.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Homewrecker",
+      "artist": "Sisqo",
+      "has_synced": true,
+      "path": "select/09_Homewrecker_Sisqo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "homewrecker",
+      "artist": "Tune-Yards",
+      "has_synced": false,
+      "path": "select/10_homewrecker_Tune-Yards.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Homewrecker",
+      "artist": "Converge",
+      "has_synced": true,
+      "path": "select/11_Homewrecker_Converge.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Homewrecker",
+      "artist": "Gretchen Wilson",
+      "has_synced": true,
+      "path": "select/12_Homewrecker_Gretchen_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Homewrecker",
+      "artist": "Hellogoodbye",
+      "has_synced": true,
+      "path": "select/13_Homewrecker_Hellogoodbye.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Homewrecker",
+      "artist": "Gretchen Wilson",
+      "has_synced": true,
+      "path": "select/14_Homewrecker_Gretchen_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Homewrecker",
+      "artist": "VIC MENSA feat. Rivers Cuomo",
+      "has_synced": false,
+      "path": "select/15_Homewrecker_VIC_MENSA_feat._Rivers_Cuomo.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Homewrecker",
+      "artist": "sombr",
+      "has_synced": false,
+      "path": "select/pl_01_Homewrecker_sombr.txt"
+    }
+  ]
+}
